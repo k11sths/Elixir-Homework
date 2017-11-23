@@ -1,0 +1,2 @@
+Exercise 1:
+[_ | [ _ | [ item_3 | _ ] ] ] = list ++ [:q]
